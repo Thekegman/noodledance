@@ -4,7 +4,7 @@ from time import perf_counter
 cap = cv2.VideoCapture(0)
 fps = cap.get(cv2.CAP_PROP_FPS)
 height = cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
-scale_fact = 2;
+scale_fact = 1;
 
 segment_count = fps*3
 
