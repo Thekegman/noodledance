@@ -1,2 +1,2 @@
 # noodledance
-Attempting to recreating the tiktok "noodle dance" filter
+Attempting to recreate the tiktok "noodle dance" filter
